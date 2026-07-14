@@ -25,6 +25,6 @@ Skills and Tools Applied:
 
 This project strengthened my ability to transform raw datasets into meaningful insights that drive data-informed decision-making and enhance business performance analysis. 
 
-GitHub Project Link: https://lnkd.in/dcpFwY_s
+GitHub Project Link: https://github.com/ashwinis0303-rgb/Blinkit/blob/main/project.PNG
 
 I look forward to building more impactful analytics solutions and continuing my learning journey in the world of data! 
